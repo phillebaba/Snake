@@ -1,1 +1,10 @@
-This is a git repo
+This is a simple Snake game written in C specifically to be run in Linux systems.
+
+Controls:
+
+	W
+A	S	D
+
+Rules:
+	- Avoid the edge of the screen
+	- Collect the dots with the fron of the snake
